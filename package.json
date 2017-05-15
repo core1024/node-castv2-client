@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "castv2": "https://github.com/Ivshti/node-castv2",
+    "castv2": "https://github.com/Ivshti/node-castv2#3c695bdcc25d47d059278a327bb4f42a74a351e6",
     "debug": "^2.2.0"
   },
   "devDependencies": {
